@@ -1,0 +1,12 @@
+{
+  "author" : "SpicySpaceSnake",
+  "description" : "A compatibility supplement for Spiced-Up Menu Music.",
+  "friendlyName" : "Spiced-Up Menu Music - Frackin' Universe",
+  "link" : "",
+  "name" : "spicedMenuMusic_Frackin",
+  "priority" : 9001,
+  "requires" : ["spicedMenuMusic", "FrackinUniverse"],
+  "steamContentId" : "",
+  "tags" : "User Interface",
+  "version" : "1.0.0"
+}

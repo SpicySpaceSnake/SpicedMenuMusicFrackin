@@ -1,0 +1,52 @@
+[
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/a_thing.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/five-years.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/floodedcomplex.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/Gario_EldritchSporeSpawn.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/MelodyofMisery.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/OTR.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/shores_of_tranquility.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/Srinagar.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/vangelis.ogg"
+  },
+  {
+    "op" : "copy",
+    "from" : "/music/day/tracks",
+    "path" : "/music/night/tracks"
+  }
+]
