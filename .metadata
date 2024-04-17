@@ -2,11 +2,11 @@
   "author" : "SpicySpaceSnake",
   "description" : "A compatibility supplement for Spicebound:Menu Music.",
   "friendlyName" : "Spicebound:Menu Music - Frackin' Universe",
-  "link" : "",
+  "link" : "steam://url/CommunityFilePage/3225378740",
   "name" : "spicedMenuMusic_Frackin",
   "priority" : 9001,
   "requires" : ["spicedMenuMusic", "FrackinUniverse"],
-  "steamContentId" : "",
+  "steamContentId" : "3225378740",
   "tags" : "User Interface",
   "version" : "1.0.0"
 }
